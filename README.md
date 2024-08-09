@@ -1,4 +1,3 @@
-![1723206710980](https://github.com/user-attachments/assets/750ffec2-1aa7-47b0-b4b0-88c93e5d1e3a)
 <h2 tabindex="-1" class="heading-element" dir="auto">💡 简介</h2>
 萤火软件是一款集办公以及聊天于一体的快捷工具，它使用0代码开发。虽然它处于开发阶段，但我们提供了部分内测产品供您体验。
 
@@ -23,3 +22,5 @@
 组织编写了《用户服务协议》和《隐私政策》。</pre>
 <pre>2024年8月9日
 开通GitHub存储库<a href="https://github.com/chengshuo11/firefly" rel="nofollow">萤火软件存储库</a>并在此提供了相关文件下载地址。</pre>
+<h3 tabindex="-1" class="heading-element" dir="auto">联系我们</h3>
+horizon-firefly@outlook.com
